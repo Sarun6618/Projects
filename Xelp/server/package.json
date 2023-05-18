@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "it is a web which make work details to handle easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarun6618/Xelp.git"
+  },
+  "author": "Sarun Chuttakula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarun6618/Xelp/issues"
+  },
+  "homepage": "https://github.com/Sarun6618/Xelp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.1",
+    "nodemon": "^2.0.22"
+  }
+}
